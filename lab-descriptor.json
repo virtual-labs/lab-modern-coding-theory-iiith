@@ -15,7 +15,7 @@
     "name": "Review of Block Codes",
     "short-name": "block-codes-review",
     "repo": "https://github.com/virtual-labs/exp-block-codes-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -29,56 +29,56 @@
     "name": "Maximum Likelihood (ML) Decoding of Codes on Binary Input Channels",
     "short-name": "ml-decoding-binary-channels",
     "repo": "https://github.com/virtual-labs/exp-likelihood-decoding-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "LDPC Codes Introduction",
     "short-name": "ldpc-codes-introduction",
     "repo": "https://github.com/virtual-labs/exp-ldpc-codes-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Message Passing Decoding of LDPC Codes on Erasure Channel",
     "short-name": "ldpc-erasure-decoding",
     "repo": "https://github.com/virtual-labs/exp-ldpc-erasure-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Message Passing Decoding of LDPC Codes on Other Channels",
     "short-name": "ldpc-other-channels-decoding",
     "repo": "https://github.com/virtual-labs/exp-ldpc-other-channels-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Reed-Muller Codes: A Polynomial View of Encoding",
     "short-name": "reed-muller-polynomial-encoding",
     "repo": "https://github.com/virtual-labs/exp-reed-muller-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Reed-Muller Codes: Generator and Parity Check Matrices, Minimum Distance",
     "short-name": "reed-muller-parity-matrices",
     "repo": "https://github.com/virtual-labs/exp-reed-muller-parity-matrices-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Majority Logic Decoding of Reed-Muller Codes",
     "short-name": "majority-logic-reed-muller",
     "repo": "https://github.com/virtual-labs/exp-majority-logic-reed-muller-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "ML Decoding of First-Order Reed-Muller Codes",
     "short-name": "ml-first-order-reed-muller",
     "repo": "https://github.com/virtual-labs/exp-ml-reed-muller-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
